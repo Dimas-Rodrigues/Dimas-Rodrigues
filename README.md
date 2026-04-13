@@ -4,7 +4,7 @@
 
 Meu nome é Dimas Rodrigues, tenho 41 anos e sou natural de São Paulo. Atualmente, estou cursando Bacharelado em Tecnologia da Informação na UNIVESP.
 
-Sou desenvolvedor de sistemas com experiência em ASP.NET MVC, C#, JavaScript, atuando em projetos corporativos e de gestão de pessoas. Minha experiência de trabalho é com arquitetura em camadas (DAL, BLL, Controllers), integração com APIs.
+Sou desenvolvedor de sistemas com experiência em ASP.NET MVC, C#, atuando em projetos corporativos e de gestão de pessoas. Minha experiência de trabalho é com arquitetura em camadas (Front, Controllers, BLL, DAL), integração com APIs.
 
 
 ---
